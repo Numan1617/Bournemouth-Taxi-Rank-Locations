@@ -4,5 +4,7 @@
     <string name="app_name">Bournemouth Locations</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="generic_user_agent_text">BournemouthLocations</string>
+    <string name="title_activity_taxi_ranks">Taxi Ranks</string>
 
 </resources>
